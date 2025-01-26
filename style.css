@@ -1,0 +1,40 @@
+.orange-text{
+    color: orange;
+    font-weight: bolder;
+    text-align: center;
+}
+li{
+    color: white;
+}
+h3{
+    color: blue;
+    font-weight: bolder;
+
+    
+}
+#head{
+    color: orange;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: x-large;
+}
+img{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+            
+}
+a {
+    color: orange; /* LinkedIn blue */
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: orange; /* Darker LinkedIn blue */
+}
